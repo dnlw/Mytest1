@@ -144,14 +144,14 @@ public class MainActivity extends Activity {
 				//ResultActivity.this.startActivity(getIntent());
 			}
 		});
-		cancel.setOnClickListener(new OnClickListener() {
-			
-			@Override
-			public void onClick(View arg0) {
-				// TODO Auto-generated method stub
-				MainActivity.this.finish();
-			}
-		});
+//		cancel.setOnClickListener(new OnClickListener() {
+//			
+//			@Override
+//			public void onClick(View arg0) {
+//				// TODO Auto-generated method stub
+//				MainActivity.this.finish();
+//			}
+//		});
 	}
 
 	
